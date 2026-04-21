@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logistics Database System
 
 This project is a simple Python + SQLite database system for managing:
@@ -21,3 +22,6 @@ This project is a simple Python + SQLite database system for managing:
 ```bash
 git clone https://github.com/your-username/your-repo.git
 cd your-repo
+=======
+# logistics_database
+>>>>>>> 6a5afed0563e7395acebb5f839f80bbabd33bb08
