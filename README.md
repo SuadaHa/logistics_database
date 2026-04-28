@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Logistics Database System
+Logistics Database System
 
 This project is a simple Python + SQLite database system for managing:
 
@@ -7,16 +6,16 @@ This project is a simple Python + SQLite database system for managing:
 - Customers
 - Shipments
 
-## 📦 Features
+Features
 - Create and manage database tables
 - Store customer and shipment data
 - Basic relational structure using foreign keys
 
-## 🛠️ Technologies
+Technologies
 - Python 3
 - SQLite3
 
-## ▶️ How to Run
+How to Run
 
 1. Clone the repository:
 ```bash
